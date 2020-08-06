@@ -4,4 +4,4 @@ def reverse_each_word(str_arg)
   str_arg.reverse()
   end
   
-reverse_each_word(array)
+reverse_each_word(new_array)
