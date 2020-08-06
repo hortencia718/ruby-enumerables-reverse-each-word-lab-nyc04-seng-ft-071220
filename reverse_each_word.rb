@@ -9,3 +9,5 @@ end
 #  b/c i wanted to solve in one line i choose to look up how you would reverse a sentance and a word , and how you would put it together again .. 
 #  i used split Search Results
 # split is a String class method in Ruby which is used to split the given string into an array of substrings based on a pattern specified
+# collect b/c It returns a new array.
+#  i choose arg b/c its my argument which referes to my "sentence" .reverse
